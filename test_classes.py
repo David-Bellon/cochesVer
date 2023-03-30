@@ -55,6 +55,7 @@ test = DataLoader(
     shuffle=True,
 )
 
+
 number_samples = len(data)
 print(number_samples)
 rights = 0
